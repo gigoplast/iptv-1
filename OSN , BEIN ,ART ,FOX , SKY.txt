@@ -1,0 +1,1011 @@
+#EXTM3U
+
+#EXTINF:95,Canal Plus Cinema 
+
+http://37.59.17.92:1935/live?idu=max6996_75478532400/canal_plus_cinema/playlist.m3u8
+
+#EXTINF:96,Canal Plus Sport 
+
+http://37.59.17.92:1935/live?idu=max6996_75478532400/canal_plus_sport/playlist.m3u8
+
+#EXTINF:97,Canal Plus 
+
+http://37.59.17.92:1935/live?idu=max6996_75478532400/canal_plus/playlist.m3u8
+#EXTINF:0,Cinemax
+http://ultra.goldtv.al:8000/live/testyy/testzzz/208.ts
+#EXTINF:0,Cinestar Action
+http://ultra.goldtv.al:8000/live/testyy/testzzz/207.ts
+#EXTINF:0,CineStar Premiere 1
+http://ultra.goldtv.al:8000/live/testyy/testzzz/205.ts
+#EXTINF:0,CineStar Premiere 2
+http://ultra.goldtv.al:8000/live/testyy/testzzz/206.ts
+#EXTINF:-1,movies4men
+http://94.198.255.211:5555/pl.m3u8?channel=306
+#EXTINF:-1,m>movies+1
+http://94.198.255.211:5555/pl.m3u8?channel=307
+#EXTINF:-1,CNN Int.
+http://94.198.255.211:5555/pl.m3u8?channel=308
+#EXTINF:-1,France 24 (in English)
+http://94.198.255.211:5555/pl.m3u8?channel=309
+#EXTINF:-1,Fashion Television
+http://94.198.255.211:5555/pl.m3u8?channel=313
+#EXTINF:-1,BBC NEWS
+http://94.198.255.211:5555/pl.m3u8?channel=314
+#EXTINF:-1,France 2
+http://94.198.255.211:5555/pl.m3u8?channel=401
+#EXTINF:-1,TF1
+http://94.198.255.211:5555/pl.m3u8?channel=400
+#EXTINF:-1,France 3
+http://94.198.255.211:5555/pl.m3u8?channel=402
+#EXTINF:-1,France 4
+http://94.198.255.211:5555/pl.m3u8?channel=403
+#EXTINF:-1,France 5
+http://94.198.255.211:5555/pl.m3u8?channel=404
+#EXTINF:-1,BFM Business
+http://94.198.255.211:5555/pl.m3u8?channel=405
+#EXTINF:-1,M6
+http://94.198.255.211:5555/pl.m3u8?channel=407
+#EXTINF:-1,France 24 (en Français)
+http://94.198.255.211:5555/pl.m3u8?channel=406
+#EXTINF:-1,D8
+http://94.198.255.211:5555/pl.m3u8?channel=408
+#EXTINF:-1,W9
+http://94.198.255.211:5555/pl.m3u8?channel=410
+#EXTINF:-1,France O
+http://94.198.255.211:5555/pl.m3u8?channel=411
+#EXTINF:-1,TMC
+http://94.198.255.211:5555/pl.m3u8?channel=412
+#EXTINF:-1,NRJ12
+http://94.198.255.211:5555/pl.m3u8?channel=413
+#EXTINF:-1,D17
+http://94.198.255.211:5555/pl.m3u8?channel=414
+#EXTINF:-1,LCP
+http://94.198.255.211:5555/pl.m3u8?channel=415
+#EXTINF:-1,NT1
+http://94.198.255.211:5555/pl.m3u8?channel=416
+#EXTINF:-1,i>TELE
+http://94.198.255.211:5555/pl.m3u8?channel=417
+#EXTINF:-1,Gulli
+http://94.198.255.211:5555/pl.m3u8?channel=418
+#EXTINF:-1,BFM TV
+http://94.198.255.211:5555/pl.m3u8?channel=419
+#EXTINF:-1,Alsace 20
+http://94.198.255.211:5555/pl.m3u8?channel=420
+#EXTINF:-1,CCTV F
+http://94.198.255.211:5555/pl.m3u8?channel=421
+#EXTINF:0,fox
+http://185.38.12.20:8088/fox/
+#EXTINF:0,foxlife
+http://185.38.12.20:8088/foxlife/
+#EXTINF:0,FILM AUTOR
+http://ultra.goldtv.al:8000/live/testyy/testzzz/47.ts
+#EXTINF:0,FILM KOMEDI
+http://ultra.goldtv.al:8000/live/testyy/testzzz/51.ts
+#EXTINF:0,FILM AKSION
+http://ultra.goldtv.al:8000/live/testyy/testzzz/46.ts
+#EXTINF:0,FILM HITS
+http://ultra.goldtv.al:8000/live/testyy/testzzz/48.ts
+#EXTINF:0,Film Hits +1
+http://ultra.goldtv.al:8000/live/testyy/testzzz/121.ts
+#EXTINF:0,FILM DRAME
+http://ultra.goldtv.al:8000/live/testyy/testzzz/50.ts
+#EXTINF:0,FILM THRILLER
+http://ultra.goldtv.al:8000/live/testyy/testzzz/49.ts
+#EXTINF:0,DIGI GOLD
+http://ultra.goldtv.al:8000/live/testyy/testzzz/62.ts
+#EXTINF:0,FILM NJE HD
+http://ultra.goldtv.al:8000/live/testyy/testzzz/52.ts
+#EXTINF:0,FILM DY HD
+http://ultra.goldtv.al:8000/live/testyy/testzzz/53.ts
+
+#EXTINF:-1,bein sport fr1 
+
+http://185.56.30.127:8082/TV4016
+
+#EXTINF:-1,bein sport fr2 
+
+http://185.56.30.127:8082/TV4017
+
+#EXTINF:-1,bein sport 1 
+
+http://185.56.30.127:8082/TV4001
+
+#EXTINF:-1,bein sport 2 
+
+http://185.56.30.127:8082/TV4002
+
+#EXTINF:-1,bein sport 3 
+
+http://185.56.30.127:8082/TV4003
+
+#EXTINF:-1,bein sport 4 
+
+http://185.56.30.127:8082/TV4004
+
+#EXTINF:-1,bein sport 5 
+
+http://185.56.30.127:8082/TV4005
+
+#EXTINF:-1,bein sport 6 
+
+http://185.56.30.127:8082/TV4006
+
+#EXTINF:-1,bein sport 7 
+
+http://185.56.30.127:8082/TV4007
+
+#EXTINF:-1,bein sport 8 
+
+http://185.56.30.127:8082/TV4008
+
+#EXTINF:-1,bein sport 9 
+
+http://185.56.30.127:8082/TV4009
+
+#EXTINF:-1,bein sport 10 
+
+http://185.56.30.127:8082/TV4010
+
+#EXTINF:95,Canal Plus Cinema 
+
+http://37.59.17.92:1935/live?idu=max6996_75478532400/canal_plus_cinema/playlist.m3u8
+
+#EXTINF:96,Canal Plus Sport 
+
+http://37.59.17.92:1935/live?idu=max6996_75478532400/canal_plus_sport/playlist.m3u8
+
+#EXTINF:97,Canal Plus 
+
+http://37.59.17.92:1935/live?idu=max6996_75478532400/canal_plus/playlist.m3u8
+
+#EXTINF:-1,beIN Sports (UK) 
+
+http://cctv2-lh.akamaihd.net/i/juliancapo_live@125190/index_1080p_av-p.m3u8
+
+#EXTINF:-1,beIN Sports HD (UK) 
+
+http://cctv-lh.akamaihd.net/i/ZonaXF1_live@125115/index_1080p_av-p.m3u8
+
+#EXTINF:-1,beIN Sports Espa?ol 720p 
+
+http://dtv_hls_live-lh.akamaihd.net/i/dtvhls02_delivery@195673/index_4128_av-p.m3u8
+
+#EXTINF:-1,Canal + De Futbol 
+
+http://cctv2-lh.akamaihd.net/i/deportivotve27_live@125194/index_1080p_av-p.m3u8
+
+#EXTINF:-1,Canal+ HD Deportes 
+
+http://cctv-lh.akamaihd.net/i/deportivotve13_live@125114/master.m3u8
+
+#EXTINF:-1,Canal+ Liga De Campeones 
+
+http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,ArenaVision 
+
+http://199.168.116.12:1935/app/avisions-channel/playlist.m3u8
+
+#EXTINF:-1,Sky BUNDESLIGA 1 
+
+http://cctv2-lh.akamaihd.net/i/musteqja_live@125190/index_1080p_av-p.m3u8
+
+#EXTINF:-1,Real Madrid TV 
+
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Barca TV 
+
+http://cctv-lh.akamaihd.net/i/rivotv6_live@125118/index_1080p_av-p.m3u8
+
+
+ #EXTINF:0,beINSPORTS 1
+http://91.109.20.227:8080/TV4001
+ #EXTINF:0,beINSPORTS 2
+http://91.109.20.227:8080/TV4002
+ #EXTINF:0,beINSPORTS 3
+http://91.109.20.227:8080/TV4003
+ #EXTINF:0,beINSPORTS 4
+http://91.109.20.227:8080/TV4004
+ #EXTINF:0,beINSPORTS 5
+http://91.109.20.227:8080/TV4005
+ #EXTINF:0,beINSPORTS 6
+http://91.109.20.227:8080/TV4006
+ #EXTINF:0,beINSPORTS 7
+http://91.109.20.227:8080/TV4007
+ #EXTINF:0,beINSPORTS 8
+http://91.109.20.227:8080/TV4008
+ #EXTINF:0,beINSPORTS 9
+http://91.109.20.227:8080/TV4009
+ #EXTINF:0,beINSPORTS 10
+http://91.109.20.227:8080/TV4010
+ #EXTINF:0,beINSPORTS 2f
+http://91.109.20.227:8080/TV4017
+ #EXTINF:0,beINSPORTS 3f
+http://91.109.20.227:8080/TV4018
+
+#EXTINF: 0,Our Football HD
+http://46.61.226.18/hls/CH_C06_NASHFOOTBALLHD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0,1Football HD
+http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0,Football 2 HD
+http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
+#EXTINF: 0,Football 3 HD
+http://46.61.226.18/hls/CH_FUTBALL3HD/bw3000000/variant.m3u8?version=2
+#EXTINF:0,SPORT TV 1
+http://myplace.dnsalias.com:6262/live/pt/gratis/11.ts
+#EXTINF:0,SPORT TV 2
+http://myplace.dnsalias.com:6262/live/pt/gratis/12.ts
+#EXTINF:0,SPORT TV 3
+http://myplace.dnsalias.com:6262/live/pt/gratis/13.ts
+#EXTINF:0,SPORT TV 4
+http://myplace.dnsalias.com:6262/live/pt/gratis/14.ts
+#EXTINF:0,SPORT TV 5
+http://myplace.dnsalias.com:6262/live/pt/gratis/15.ts
+#EXTINF:0,BENFICA TV 1
+http://myplace.dnsalias.com:6262/live/pt/gratis/16.ts
+#EXTINF:0,BENFICA TV 2
+http://myplace.dnsalias.com:6262/live/pt/gratis/17.ts
+#EXTINF:0,RTP 1
+http://myplace.dnsalias.com:6262/live/pt/gratis/1.ts
+#EXTINF:0,RTP 2
+http://myplace.dnsalias.com:6262/live/pt/gratis/2.ts
+#EXTINF:0,SIC
+http://myplace.dnsalias.com:6262/live/pt/gratis/3.ts
+#EXTINF:0,TVI
+http://myplace.dnsalias.com:6262/live/pt/gratis/4.ts
+#EXTINF:0,SIC Not?cias
+http://myplace.dnsalias.com:6262/live/pt/gratis/5.ts
+#EXTINF:0,TVI 24
+http://myplace.dnsalias.com:6262/live/pt/gratis/6.ts
+#EXTINF:0,CANAL PANDA
+http://myplace.dnsalias.com:6262/live/pt/gratis/7.ts
+#EXTINF:0,DISNEY JUNIOR
+http://myplace.dnsalias.com:6262/live/pt/gratis/8.ts
+#EXTINF:0,TV GLOBO
+http://myplace.dnsalias.com:6262/live/pt/gratis/9.ts
+#EXTINF:0,TV RECORD
+http://myplace.dnsalias.com:6262/live/pt/gratis/10.ts
+#EXTINF:0,TVC 1
+http://myplace.dnsalias.com:6262/live/pt/gratis/18.ts
+#EXTINF:0,TVC 2
+http://myplace.dnsalias.com:6262/live/pt/gratis/19.ts
+#EXTINF:0,TVC 3
+http://myplace.dnsalias.com:6262/live/pt/gratis/20.ts
+#EXTINF:0,AXN
+http://myplace.dnsalias.com:6262/live/pt/gratis/22.ts
+#EXTINF:0,FOX HD 2
+http://myplace.dnsalias.com:6262/live/pt/gratis/23.ts
+#EXTINF:0,HOLLYWOD
+http://myplace.dnsalias.com:6262/live/pt/gratis/24.ts
+#EXTINF:0,MOV
+http://myplace.dnsalias.com:6262/live/pt/gratis/25.ts
+#EXTINF:0,CANAL HISTORIA
+http://myplace.dnsalias.com:6262/live/pt/gratis/26.ts
+#EXTINF:0,RTP INFORMATION
+http://myplace.dnsalias.com:6262/live/pt/gratis/202.ts
+#EXTINF:0,AXN WHITE
+http://myplace.dnsalias.com:6262/live/pt/gratis/203.ts
+#EXTINF:0,AXN BLACK
+http://myplace.dnsalias.com:6262/live/pt/gratis/204.ts
+#EXTINF:0,MOTORS TV
+http://myplace.dnsalias.com:6262/live/pt/gratis/205.ts
+
+
+#EXTINF:0, Sky sports F1
+http://sportztv.net/live/SportsTv/Appss/6.ts
+
+#EXTINF:0, Sky movies
+http://sportztv.net/live/SportsTv/Appss/7.ts
+
+#EXTINF:0, Setanta
+http://sportztv.net/live/SportsTv/Appss/8.ts
+
+#EXTINF:0, Setanta 1
+http://sportztv.net/live/SportsTv/Appss/9.ts
+
+#EXTINF:0, BT Sport 1
+http://sportztv.net/live/SportsTv/Appss/10.ts
+
+#EXTINF:0, BT Sport 2
+http://sportztv.net/live/SportsTv/Appss/11.ts
+
+#EXTINF:0, Eurosport
+http://sportztv.net/live/SportsTv/Appss/12.ts
+
+#EXTINF:0, Eurosport 2
+http://sportztv.net/live/SportsTv/Appss/13.ts
+
+#EXTINF:0, ESPN
+http://sportztv.net/live/SportsTv/Appss/14.ts
+
+#EXTINF:0, Box Nation
+http://sportztv.net/live/SportsTv/Appss/15.ts
+
+#EXTINF:0, TSN 1
+http://sportztv.net/live/SportsTv/Appss/34.ts
+
+#EXTINF:0, Sky bundesliga 1 HD
+http://sportztv.net/live/SportsTv/Appss/38.ts
+
+#EXTINF:0, bein sports 7
+http://sportztv.net/live/SportsTv/Appss/22.ts
+
+#EXTINF:0, bein sports 8
+http://sportztv.net/live/SportsTv/Appss/23.ts
+
+#EXTINF:0, bein sports 9
+http://sportztv.net/live/SportsTv/Appss/24.ts
+
+#EXTINF:0, bein sports MAX 4
+http://sportztv.net/live/SportsTv/Appss/93.ts
+
+#EXTINF:0, bein sports max 5
+http://sportztv.net/live/SportsTv/Appss/94.ts
+
+
+#EXTINF:0, Movies
+http://sportztv.net/live/SportsTv/Appss/98.ts
+
+#EXTINF:0, bbc Four
+http://sportztv.net/live/SportsTv/Appss/99.ts
+
+#EXTINF:0, BBC Three
+http://sportztv.net/live/SportsTv/Appss/100.ts
+
+#EXTINF:0, itv
+http://sportztv.net/live/SportsTv/Appss/101.ts
+
+#EXTINF:0, itv 4
+http://sportztv.net/live/SportsTv/Appss/102.ts
+
+#EXTINF:0, itv 3
+http://sportztv.net/live/SportsTv/Appss/105.ts
+
+#EXTINF:0, MotoGP
+http://sportztv.net/live/SportsTv/Appss/106.ts
+
+#EXTINF:0, uk movies
+http://sportztv.net/live/SportsTv/Appss/108.ts
+
+#EXTINF:0, Cinema Family + 1
+http://sportztv.net/live/SportsTv/Appss/50.ts
+
+#EXTINF:0, Arena sport 2
+http://sportztv.net/live/SportsTv/Appss/55.ts
+
+#EXTINF:0, Arena sport 3
+http://sportztv.net/live/SportsTv/Appss/56.ts
+
+#EXTINF:0, Fox Sport 1
+http://sportztv.net/live/SportsTv/Appss/59.ts
+
+#EXTINF:0, Star plus india
+http://sportztv.net/live/SportsTv/Appss/61.ts
+
+#EXTINF:0, Sky movies Action
+http://sportztv.net/live/SportsTv/Appss/64.ts
+
+#EXTINF:0, itv UK
+http://sportztv.net/live/SportsTv/Appss/65.ts
+
+#EXTINF:0, Sport Klub 2
+http://sportztv.net/live/SportsTv/Appss/67.ts
+
+#EXTINF:0, super sport
+http://sportztv.net/live/SportsTv/Appss/71.ts
+
+#EXTINF:0, SN1
+http://sportztv.net/live/SportsTv/Appss/75.ts
+
+#EXTINF:0, Fox sports
+http://sportztv.net/live/SportsTv/Appss/77.ts
+
+#EXTINF:0, Sony Max live
+http://sportztv.net/live/SportsTv/Appss/78.ts
+
+#EXTINF:0, NDtv
+http://sportztv.net/live/SportsTv/Appss/79.ts
+
+#EXTINF:0, india tv
+http://sportztv.net/live/SportsTv/Appss/80.ts
+
+
+
+#EXTINF:0, Strumica
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/a1-strumica/chunklist.m3u8
+#EXTINF:0, K1 Veles
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k1-tv-veles/chunklist.m3u8
+#EXTINF:0, O2 Ohrid
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/o2-tv-ohrid/chunklist.m3u8
+#EXTINF:0, Ultra Tetovo
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/ultra-tv-tetovo/chunklist.m3u8
+#EXTINF:0, K3 Kumanovo
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k3-tv-kumanovo/chunklist.m3u8
+#EXTINF:0, Mega Bitola
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/hdtv-mega-bitola/chunklist.m3u8
+
+
+
+#EXTINF:0,Discovery
+
+https://sites.google.com/site/apitvbg/Discovery.m3u?attredirects=0
+
+#EXTINF:0,Animal planet
+
+https://sites.google.com/site/apitvbg/Animal.m3u?attredirects=0
+
+#EXTINF:0,Diema sport
+
+https://sites.google.com/site/apitvbg/diema-sp.m3u?attredirects=0
+
+#EXTINF:0,VH1
+
+https://sites.google.com/site/apitvbg/VH1.m3u?attredirects=0
+
+#EXTINF:0,DM sat
+
+https://sites.google.com/site/apitvbg/DM_Sat.m3u?attredirects=0
+
+#EXTINF:0,IConcerts
+
+https://sites.google.com/site/apitvbg/iConcerts.m3u?attredirects=0
+
+#EXTINF:0,MTV
+
+https://sites.google.com/site/apitvbg/MTV.m3u?attredirects=0
+
+#EXTINF:0,Cartoon network
+
+https://sites.google.com/site/apitvbg/Cartoon_Network.m3u?attredirects=0
+
+#EXTINF:0,Discovery Science
+
+https://sites.google.com/site/apitvbg/Discovery_Science.m3u?attredirects=0
+
+#EXTINF:0,Discovery World
+
+https://sites.google.com/site/apitvbg/Discovery_World.m3u?attredirects=0
+
+#EXTINF:0,Viasat Explore
+
+https://sites.google.com/site/apitvbg/Viasat_Explorer.m3u?attredirects=0
+
+#EXTINF:0,Viasat History
+
+https://sites.google.com/site/apitvbg/Viasat_History.m3u?attredirects=0
+
+#EXTINF:0,Viasat Nature
+
+https://sites.google.com/site/apitvbg/Viasat_Nature.m3u?attredirects=0
+
+#EXTINF:0,Eurosport
+
+https://sites.google.com/site/apitvbg/eurosport.m3u?attredirects=0
+
+#EXTINF:0,Eurosport 2
+
+https://sites.google.com/site/apitvbg/eurosport2.m3u?attredirects=0
+
+#EXTINF:0,Ring HD
+
+https://sites.google.com/site/apitvbg/ring.m3u?attredirects=0
+
+#EXTINF:0,Kino Nova
+
+https://sites.google.com/site/apitvbg/diem2.m3u?attredirects=0
+
+#EXTINF:0,Film plus
+
+https://sites.google.com/site/apitvbg/filmplus.m3u?attredirects=0
+
+#EXTINF:0,TV 1000
+
+https://sites.google.com/site/apitvbg/tv1000.m3u?attredirects=0
+
+#EXTINF:0,HBO Comedy
+
+https://sites.google.com/site/apitvbg/hbo-c.m3u?attredirects=0
+
+#EXTINF:0,HBO
+
+https://sites.google.com/site/apitvbg/hbo.m3u?attredirects=0
+
+#EXTINF:0,Fen
+
+https://sites.google.com/site/apitvbg/fen.m3u?attredirects=0
+
+#EXTINF:0,AXN Black
+
+https://sites.google.com/site/apitvbg/axn-s.m3u?attredirects=0
+
+#EXTINF:0,AXN White
+
+https://sites.google.com/site/apitvbg/axn-c.m3u?attredirects=0
+
+#EXTINF:0,AXN
+
+https://sites.google.com/site/apitvbg/axn.m3u?attredirects=0
+
+#EXTINF:0,b cinema
+
+https://sites.google.com/site/apitvbg/btv-s.m3u?attredirects=0
+
+#EXTINF:0,super 7
+
+https://sites.google.com/site/apitvbg/super7.m3u?attredirects=0
+
+#EXTINF:0,Planeta
+
+https://sites.google.com/site/apitvbg/Planeta.m3u?attredirects=0
+
+#EXTINF:0,Diem Family
+
+https://sites.google.com/site/apitvbg/diem-f.m3u?attredirects=0
+
+#EXTINF:0,Diema
+
+https://sites.google.com/site/apitvbg/diem.m3u?attredirects=0
+
+#EXTINF:0,b lady
+
+https://sites.google.com/site/apitvbg/btv-l.m3u?attredirects=0
+
+#EXTINF:0,b comedy
+
+https://sites.google.com/site/apitvbg/btv-c.m3u?attredirects=0
+
+#EXTINF:0,b action
+
+https://sites.google.com/site/apitvbg/btv-a.m3u?attredirects=0
+
+#EXTINF:0,TV plus
+
+https://sites.google.com/site/apitvbg/tvplus.m3u?attredirects=0
+
+#EXTINF:0,TLC
+
+https://sites.google.com/site/apitvbg/tlc.m3u?attredirects=0
+
+#EXTINF:0, MUSICBOXTV
+http://46.61.226.18/hls/CH_MUSICBOXTV/bw1500000/variant.m3u8?version=2
+
+#EXTINF:0, MUSICBOX
+http://46.61.226.18/hls/CH_MUSICBOXRU/bw1500000/variant.m3u8?version=2
+
+#EXTINF:0,Mezzo
+http://46.61.226.18/hls/CH_MEZZO/bw1500000/variant.m3u8?version=2
+
+#EXTINF:0, MTV
+http://46.61.226.18/hls/CH_MTV/bw1500000/variant.m3u8?version=2
+
+#EXTINF:0, MTVHITS
+http://46.61.226.18/hls/CH_MTVDANCE/bw1500000/variant.m3u8?version=2
+
+#EXTINF:0, MTVHITS
+http://46.61.226.18/hls/CH_MTVHITS/bw1500000/variant.m3u8?version=2
+
+#EXTINF:0, MTVROCKS
+http://46.61.226.18/hls/CH_MTVROCKS/bw1500000/variant.m3u8?version=2
+
+
+
+
+#EXTINF:0, Viasat Sport
+http://46.61.226.18/hls/CH_VIASATSPORT/bw1500000/variant.m3u8?version=2
+
+#EXTINF:0, Viasat Explorer
+http://46.61.226.18/hls/CH_VIASATEXPLORER/bw1500000/variant.m3u8?version=2
+
+#EXTINF:0, Viasat History
+http://46.61.226.18/hls/CH_VIASATHISTORY/bw1500000/variant.m3u8?version=2
+
+#EXTINF:0, Viasat Nature
+http://46.61.226.18/hls/CH_VIASATNATURE/bw1500000/variant.m3u8?version=2
+
+
+
+
+#EXTINF:-1,SRF 1
+http://94.198.255.211:5555/pl.m3u8?channel=1
+#EXTINF:-1,SRF zwei
+http://94.198.255.211:5555/pl.m3u8?channel=2
+#EXTINF:-1,SRF info
+http://94.198.255.211:5555/pl.m3u8?channel=3
+#EXTINF:-1,Das Erste
+http://94.198.255.211:5555/pl.m3u8?channel=4
+#EXTINF:-1,ZDF
+http://94.198.255.211:5555/pl.m3u8?channel=5
+#EXTINF:-1,ORF1
+http://94.198.255.211:5555/pl.m3u8?channel=7
+#EXTINF:-1,SWR Fernsehen BW
+http://94.198.255.211:5555/pl.m3u8?channel=6
+#EXTINF:-1,ORF2
+http://94.198.255.211:5555/pl.m3u8?channel=8
+#EXTINF:-1,3sat
+http://94.198.255.211:5555/pl.m3u8?channel=9
+#EXTINF:-1,ATV
+http://94.198.255.211:5555/pl.m3u8?channel=11
+#EXTINF:-1,arte
+http://94.198.255.211:5555/pl.m3u8?channel=10
+#EXTINF:-1,Bibel TV
+http://94.198.255.211:5555/pl.m3u8?channel=12
+#EXTINF:-1,ARD-alpha
+http://94.198.255.211:5555/pl.m3u8?channel=13
+#EXTINF:-1,Welt der Wunder
+http://94.198.255.211:5555/pl.m3u8?channel=15
+#EXTINF:-1,Radio Bremen TV
+http://94.198.255.211:5555/pl.m3u8?channel=14
+#EXTINF:-1,†DELUXE‡ MUSIC
+http://94.198.255.211:5555/pl.m3u8?channel=17
+#EXTINF:-1,Disney Channel
+http://94.198.255.211:5555/pl.m3u8?channel=16
+#EXTINF:-1,DMAX
+http://94.198.255.211:5555/pl.m3u8?channel=18
+#EXTINF:-1,DW Europe
+http://94.198.255.211:5555/pl.m3u8?channel=19
+#EXTINF:-1,Einsfestival
+http://94.198.255.211:5555/pl.m3u8?channel=20
+#EXTINF:-1,EinsPlus
+http://94.198.255.211:5555/pl.m3u8?channel=21
+#EXTINF:-1,ManouLenz.tv
+http://94.198.255.211:5555/pl.m3u8?channel=22
+#EXTINF:-1,Eurosport Deutschland
+http://94.198.255.211:5555/pl.m3u8?channel=24
+#EXTINF:-1,intv
+http://94.198.255.211:5555/pl.m3u8?channel=25
+#EXTINF:-1,Bloomberg Europe TV
+http://94.198.255.211:5555/pl.m3u8?channel=26
+#EXTINF:-1,HSE24
+http://94.198.255.211:5555/pl.m3u8?channel=27
+#EXTINF:-1,New channel
+http://94.198.255.211:5555/pl.m3u8?channel=28
+#EXTINF:-1,kabel eins
+http://94.198.255.211:5555/pl.m3u8?channel=29
+#EXTINF:-1,Kabel 1 Austria
+http://94.198.255.211:5555/pl.m3u8?channel=30
+#EXTINF:-1,KiKA
+http://94.198.255.211:5555/pl.m3u8?channel=31
+#EXTINF:-1,K-TV
+http://94.198.255.211:5555/pl.m3u8?channel=32
+#EXTINF:-1,münchen.tv
+http://94.198.255.211:5555/pl.m3u8?channel=33
+#EXTINF:-1,N24
+http://94.198.255.211:5555/pl.m3u8?channel=34
+#EXTINF:-1,Nickelodeon
+http://94.198.255.211:5555/pl.m3u8?channel=35
+#EXTINF:-1,NICKELODEON AT
+http://94.198.255.211:5555/pl.m3u8?channel=36
+#EXTINF:-1,n-tv
+http://94.198.255.211:5555/pl.m3u8?channel=37
+#EXTINF:-1,PHOENIX
+http://94.198.255.211:5555/pl.m3u8?channel=38
+#EXTINF:-1,ProSieben
+http://94.198.255.211:5555/pl.m3u8?channel=39
+#EXTINF:-1,ProSieben Austria
+http://94.198.255.211:5555/pl.m3u8?channel=40
+#EXTINF:-1,ProSieben MAXX
+http://94.198.255.211:5555/pl.m3u8?channel=41
+#EXTINF:-1,RNF
+http://94.198.255.211:5555/pl.m3u8?channel=42
+#EXTINF:-1,†RTL‡ Television
+http://94.198.255.211:5555/pl.m3u8?channel=43
+#EXTINF:-1,RTL Austria
+http://94.198.255.211:5555/pl.m3u8?channel=44
+#EXTINF:-1,RTL2
+http://94.198.255.211:5555/pl.m3u8?channel=45
+#EXTINF:-1,RTL2 Austria
+http://94.198.255.211:5555/pl.m3u8?channel=46
+#EXTINF:-1,RTLNITRO
+http://94.198.255.211:5555/pl.m3u8?channel=47
+#EXTINF:-1,†Sonnen‡klar †TV‡
+http://94.198.255.211:5555/pl.m3u8?channel=48
+#EXTINF:-1,SAT.1
+http://94.198.255.211:5555/pl.m3u8?channel=49
+#EXTINF:-1,SAT.1 A
+http://94.198.255.211:5555/pl.m3u8?channel=50
+#EXTINF:-1,ServusTV Oesterreich
+http://94.198.255.211:5555/pl.m3u8?channel=51
+#EXTINF:-1,SIXX
+http://94.198.255.211:5555/pl.m3u8?channel=52
+#EXTINF:-1,sixx Austria
+http://94.198.255.211:5555/pl.m3u8?channel=53
+#EXTINF:-1,SPORT1
+http://94.198.255.211:5555/pl.m3u8?channel=54
+#EXTINF:-1,SUPER RTL
+http://94.198.255.211:5555/pl.m3u8?channel=55
+#EXTINF:-1,SUPER RTL A
+http://94.198.255.211:5555/pl.m3u8?channel=56
+#EXTINF:-1,tagesschau24
+http://94.198.255.211:5555/pl.m3u8?channel=57
+#EXTINF:-1,TELE 5
+http://94.198.255.211:5555/pl.m3u8?channel=58
+#EXTINF:-1,BTV
+http://94.198.255.211:5555/pl.m3u8?channel=59
+#EXTINF:-1,ATV2
+http://94.198.255.211:5555/pl.m3u8?channel=60
+#EXTINF:-1,Comedy Central
+http://94.198.255.211:5555/pl.m3u8?channel=61
+#EXTINF:-1,Comedy Central 
+http://94.198.255.211:5555/pl.m3u8?channel=62
+#EXTINF:-1,VOX
+http://94.198.255.211:5555/pl.m3u8?channel=63
+#EXTINF:-1,VOX Austria
+http://94.198.255.211:5555/pl.m3u8?channel=64
+#EXTINF:-1,WDR K?ln
+http://94.198.255.211:5555/pl.m3u8?channel=65
+#EXTINF:-1,ZDFinfo
+http://94.198.255.211:5555/pl.m3u8?channel=66
+#EXTINF:-1,zdf.kultur
+http://94.198.255.211:5555/pl.m3u8?channel=67
+#EXTINF:-1,zdf_neo
+http://94.198.255.211:5555/pl.m3u8?channel=68
+#EXTINF:-1,Bayerisches FS Süd
+http://94.198.255.211:5555/pl.m3u8?channel=69
+#EXTINF:-1,SWR Fernsehen RP
+http://94.198.255.211:5555/pl.m3u8?channel=70
+#EXTINF:-1,SR Fernsehen
+http://94.198.255.211:5555/pl.m3u8?channel=71
+#EXTINF:-1,rbb Berlin
+http://94.198.255.211:5555/pl.m3u8?channel=72
+#EXTINF:-1,hr-fernsehen
+http://94.198.255.211:5555/pl.m3u8?channel=73
+#EXTINF:-1,LT1-OOE
+http://94.198.255.211:5555/pl.m3u8?channel=74
+#EXTINF:-1,3plusSD
+http://94.198.255.211:5555/pl.m3u8?channel=75
+#EXTINF:-1,4plusSD
+http://94.198.255.211:5555/pl.m3u8?channel=76
+#EXTINF:-1,Tele Basel
+http://94.198.255.211:5555/pl.m3u8?channel=78
+#EXTINF:-1,Tele Bern
+http://94.198.255.211:5555/pl.m3u8?channel=79
+#EXTINF:-1,Tele Züri
+http://94.198.255.211:5555/pl.m3u8?channel=80
+#EXTINF:-1,zueriplus
+http://94.198.255.211:5555/pl.m3u8?channel=81
+#EXTINF:-1,Joiz
+http://94.198.255.211:5555/pl.m3u8?channel=82
+#EXTINF:-1,ORF SPORT+
+http://94.198.255.211:5555/pl.m3u8?channel=84
+#EXTINF:-1,ITV3
+http://94.198.255.211:5555/pl.m3u8?channel=91
+#EXTINF:-1,ITV4
+http://94.198.255.211:5555/pl.m3u8?channel=92
+#EXTINF:-1,E4
+http://94.198.255.211:5555/pl.m3u8?channel=93
+#EXTINF:-1,More4
+http://94.198.255.211:5555/pl.m3u8?channel=94
+#EXTINF:-1,Film4
+http://94.198.255.211:5555/pl.m3u8?channel=95
+#EXTINF:-1,Channel 4
+http://94.198.255.211:5555/pl.m3u8?channel=96
+#EXTINF:-1,New channel
+http://94.198.255.211:5555/pl.m3u8?channel=97
+#EXTINF:-1,TVP INFO
+http://94.198.255.211:5555/pl.m3u8?channel=105
+#EXTINF:-1,TELE 5
+http://94.198.255.211:5555/pl.m3u8?channel=106
+#EXTINF:-1,TVP Polonia
+http://94.198.255.211:5555/pl.m3u8?channel=107
+#EXTINF:-1,TVS
+http://94.198.255.211:5555/pl.m3u8?channel=109
+#EXTINF:-1,TV TRWAM
+http://94.198.255.211:5555/pl.m3u8?channel=110
+#EXTINF:-1,SHANTTV
+http://94.198.255.211:5555/pl.m3u8?channel=111
+#EXTINF:-1,RU MUSIC
+http://94.198.255.211:5555/pl.m3u8?channel=112
+#EXTINF:-1,NEWS ONE
+http://94.198.255.211:5555/pl.m3u8?channel=113
+#EXTINF:-1,Rossiya 24
+http://94.198.255.211:5555/pl.m3u8?channel=114
+#EXTINF:-1,RBC-TV
+http://94.198.255.211:5555/pl.m3u8?channel=115
+#EXTINF:-1,Russia Today
+http://94.198.255.211:5555/pl.m3u8?channel=116
+#EXTINF:-1,1TVRUS Europe
+http://94.198.255.211:5555/pl.m3u8?channel=117
+#EXTINF:-1,RTR
+http://94.198.255.211:5555/pl.m3u8?channel=118
+#EXTINF:-1,2+2
+http://94.198.255.211:5555/pl.m3u8?channel=120
+#EXTINF:-1,Channel 5 (Ukraine)
+http://94.198.255.211:5555/pl.m3u8?channel=121
+#EXTINF:-1,AZTV
+http://94.198.255.211:5555/pl.m3u8?channel=122
+#EXTINF:-1,LIDER TV AZERBAIJAN
+http://94.198.255.211:5555/pl.m3u8?channel=123
+#EXTINF:-1,Arm 1TV
+http://94.198.255.211:5555/pl.m3u8?channel=124
+#EXTINF:-1,CT 24
+http://94.198.255.211:5555/pl.m3u8?channel=125
+#EXTINF:-1,M2
+http://94.198.255.211:5555/pl.m3u8?channel=126
+#EXTINF:-1,TVSH-SAT
+http://94.198.255.211:5555/pl.m3u8?channel=128
+#EXTINF:-1,RTK-SAT
+http://94.198.255.211:5555/pl.m3u8?channel=127
+#EXTINF:-1,WDR Aachen
+http://94.198.255.211:5555/pl.m3u8?channel=129
+#EXTINF:-1,WDR Duisburg
+http://94.198.255.211:5555/pl.m3u8?channel=133
+#EXTINF:-1,WDR Essen
+http://94.198.255.211:5555/pl.m3u8?channel=135
+#EXTINF:-1,WDR Münster
+http://94.198.255.211:5555/pl.m3u8?channel=136
+#EXTINF:-1,WDR Siegen
+http://94.198.255.211:5555/pl.m3u8?channel=137
+#EXTINF:-1,WDR Wuppertal
+http://94.198.255.211:5555/pl.m3u8?channel=138
+#EXTINF:-1,NDR FS HH
+http://94.198.255.211:5555/pl.m3u8?channel=139
+#EXTINF:-1,NDR FS SH
+http://94.198.255.211:5555/pl.m3u8?channel=140
+#EXTINF:-1,BBC One Lon
+http://94.198.255.211:5555/pl.m3u8?channel=141
+#EXTINF:-1,BBC Two Eng
+http://94.198.255.211:5555/pl.m3u8?channel=142
+#EXTINF:-1,BBC Europe
+http://94.198.255.211:5555/pl.m3u8?channel=143
+#EXTINF:-1,BBC World
+http://94.198.255.211:5555/pl.m3u8?channel=144
+#EXTINF:-1,BBC One NI
+http://94.198.255.211:5555/pl.m3u8?channel=145
+#EXTINF:-1,CBBC
+http://94.198.255.211:5555/pl.m3u8?channel=146
+#EXTINF:-1,QVC Deutschland
+http://94.198.255.211:5555/pl.m3u8?channel=147
+#EXTINF:-1,QVC PLUS
+http://94.198.255.211:5555/pl.m3u8?channel=148
+#EXTINF:-1,QVC BEAUTY&STYLE
+http://94.198.255.211:5555/pl.m3u8?channel=149
+#EXTINF:-1,MDR Sachsen
+http://94.198.255.211:5555/pl.m3u8?channel=150
+#EXTINF:-1,MDR S-Anhalt
+http://94.198.255.211:5555/pl.m3u8?channel=151
+#EXTINF:-1,MDR Thüringen
+http://94.198.255.211:5555/pl.m3u8?channel=152
+#EXTINF:-1,HAYAT PLUS
+http://94.198.255.211:5555/pl.m3u8?channel=153
+#EXTINF:-1,HAYAT TV BIH
+http://94.198.255.211:5555/pl.m3u8?channel=155
+#EXTINF:-1,BN SAT
+http://94.198.255.211:5555/pl.m3u8?channel=158
+#EXTINF:-1,BN Music
+http://94.198.255.211:5555/pl.m3u8?channel=157
+#EXTINF:-1,ServusTV Oesterreich
+http://94.198.255.211:5555/pl.m3u8?channel=159
+#EXTINF:-1,MKTV 2 Sat
+http://94.198.255.211:5555/pl.m3u8?channel=160
+#EXTINF:-1,Duga TV
+http://94.198.255.211:5555/pl.m3u8?channel=161
+#EXTINF:-1,NDR FS NDS
+http://94.198.255.211:5555/pl.m3u8?channel=162
+#EXTINF:-1,Dobro TV
+http://94.198.255.211:5555/pl.m3u8?channel=163
+#EXTINF:-1,HRT-TV1
+http://94.198.255.211:5555/pl.m3u8?channel=164
+#EXTINF:-1,rbb Brandenburg
+http://94.198.255.211:5555/pl.m3u8?channel=165
+#EXTINF:-1,NDR FS MV
+http://94.198.255.211:5555/pl.m3u8?channel=166
+#EXTINF:-1,SAT.1 CH
+http://94.198.255.211:5555/pl.m3u8?channel=170
+#EXTINF:-1,ProSieben Schweiz
+http://94.198.255.211:5555/pl.m3u8?channel=171
+#EXTINF:-1,RTS Un
+http://94.198.255.211:5555/pl.m3u8?channel=173
+#EXTINF:-1,RTS Deux
+http://94.198.255.211:5555/pl.m3u8?channel=174
+#EXTINF:-1,RSI LA 2
+http://94.198.255.211:5555/pl.m3u8?channel=176
+#EXTINF:-1,RSI LA 1
+http://94.198.255.211:5555/pl.m3u8?channel=175
+#EXTINF:-1,RTS SAT
+http://94.198.255.211:5555/pl.m3u8?channel=252
+#EXTINF:-1,CBeebies
+http://94.198.255.211:5555/pl.m3u8?channel=300
+#EXTINF:-1,Horse & Country
+http://94.198.255.211:5555/pl.m3u8?channel=301
+#EXTINF:-1,UTV
+http://94.198.255.211:5555/pl.m3u8?channel=302
+#EXTINF:-1,CITV
+http://94.198.255.211:5555/pl.m3u8?channel=304
+#EXTINF:-1,ITV
+http://94.198.255.211:5555/pl.m3u8?channel=305
+#EXTINF:-1,Rai 1
+http://94.198.255.211:5555/pl.m3u8?channel=500
+#EXTINF:-1,Rai 4
+http://94.198.255.211:5555/pl.m3u8?channel=502
+#EXTINF:-1,Rai 3
+http://94.198.255.211:5555/pl.m3u8?channel=501
+#EXTINF:-1,ANTENNATRE
+http://94.198.255.211:5555/pl.m3u8?channel=503
+#EXTINF:-1,MILANOW
+http://94.198.255.211:5555/pl.m3u8?channel=505
+#EXTINF:-1,LA7D
+http://94.198.255.211:5555/pl.m3u8?channel=506
+#EXTINF:-1,LA TV
+http://94.198.255.211:5555/pl.m3u8?channel=504
+#EXTINF:-1,MTV
+http://94.198.255.211:5555/pl.m3u8?channel=507
+#EXTINF:-1,ALICE Provvisorio
+http://94.198.255.211:5555/pl.m3u8?channel=509
+#EXTINF:-1,Iris
+http://94.198.255.211:5555/pl.m3u8?channel=508
+#EXTINF:-1,Boing
+http://94.198.255.211:5555/pl.m3u8?channel=510
+#EXTINF:-1,Rai Gulp
+http://94.198.255.211:5555/pl.m3u8?channel=511
+#EXTINF:-1,Cartoonito
+http://94.198.255.211:5555/pl.m3u8?channel=512
+#EXTINF:-1,Rai Storia
+http://94.198.255.211:5555/pl.m3u8?channel=513
+#EXTINF:-1,Sky TG24
+http://94.198.255.211:5555/pl.m3u8?channel=514
+#EXTINF:-1,QVC
+http://94.198.255.211:5555/pl.m3u8?channel=515
+#EXTINF:-1,MTV MUSIC
+http://94.198.255.211:5555/pl.m3u8?channel=516
+#EXTINF:-1,frisbee
+http://94.198.255.211:5555/pl.m3u8?channel=517
+#EXTINF:-1,K2
+http://94.198.255.211:5555/pl.m3u8?channel=518
+#EXTINF:-1,New channel - 
+http://94.198.255.211:5555/pl.m3u8?channel=519
+#EXTINF:-1,Telemarket for You
+http://94.198.255.211:5555/pl.m3u8?channel=523
+#EXTINF:-1,HSE24
+http://94.198.255.211:5555/pl.m3u8?channel=524
+#EXTINF:-1,Mediaset Extra
+http://94.198.255.211:5555/pl.m3u8?channel=525
+#EXTINF:-1,Mediaset Italia Due
+http://94.198.255.211:5555/pl.m3u8?channel=526
+#EXTINF:-1,RadioItaliaTV
+http://94.198.255.211:5555/pl.m3u8?channel=527
+#EXTINF:-1,TELE7LAGHI
+http://94.198.255.211:5555/pl.m3u8?channel=528
+#EXTINF:-1,TELESETTELAGHI DUE
+http://94.198.255.211:5555/pl.m3u8?channel=529
+#EXTINF:-1,Rai 2
+http://94.198.255.211:5555/pl.m3u8?channel=531
+#EXTINF:-1,Canale5
+http://94.198.255.211:5555/pl.m3u8?channel=532
+#EXTINF:-1,Italia1
+http://94.198.255.211:5555/pl.m3u8?channel=533
+#EXTINF:-1,Rai Sport 1
+http://94.198.255.211:5555/pl.m3u8?channel=534
+#EXTINF:-1,Rai Sport 2
+http://94.198.255.211:5555/pl.m3u8?channel=535
+#EXTINF:-1,Rai News 24
+http://94.198.255.211:5555/pl.m3u8?channel=536
+#EXTINF:-1,Rete4
+http://94.198.255.211:5555/pl.m3u8?channel=537
+#EXTINF:-1,Rai Movie
+http://94.198.255.211:5555/pl.m3u8?channel=538
+#EXTINF:-1,Sportitalia
+http://94.198.255.211:5555/pl.m3u8?channel=539
+#EXTINF:-1,BCTV
+http://94.198.255.211:5555/pl.m3u8?channel=540
+#EXTINF:-1,LA7
+http://94.198.255.211:5555/pl.m3u8?channel=541
+#EXTINF:-1,TELELOMBARDIA
+http://94.198.255.211:5555/pl.m3u8?channel=542
+#EXTINF:-1,TRT 1
+http://94.198.255.211:5555/pl.m3u8?channel=600
+#EXTINF:-1,TRT MUZIK
+http://94.198.255.211:5555/pl.m3u8?channel=602
+#EXTINF:-1,TRT HABER
+http://94.198.255.211:5555/pl.m3u8?channel=601
+#EXTINF:-1,TRT COCUK
+http://94.198.255.211:5555/pl.m3u8?channel=603
+#EXTINF:-1,CNN TURK
+http://94.198.255.211:5555/pl.m3u8?channel=604
+
+
+
+
+
+
+
