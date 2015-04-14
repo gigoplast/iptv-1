@@ -45,7 +45,7 @@ http://94.198.255.211:5555/pl.m3u8?channel=404
 http://94.198.255.211:5555/pl.m3u8?channel=405
 #EXTINF:-1,M6
 http://94.198.255.211:5555/pl.m3u8?channel=407
-#EXTINF:-1,France 24 (en Français)
+#EXTINF:-1,France 24 (en FranÃ§ais)
 http://94.198.255.211:5555/pl.m3u8?channel=406
 #EXTINF:-1,D8
 http://94.198.255.211:5555/pl.m3u8?channel=408
@@ -636,7 +636,7 @@ http://94.198.255.211:5555/pl.m3u8?channel=13
 http://94.198.255.211:5555/pl.m3u8?channel=15
 #EXTINF:-1,Radio Bremen TV
 http://94.198.255.211:5555/pl.m3u8?channel=14
-#EXTINF:-1,†DELUXE‡ MUSIC
+#EXTINF:-1,Â†DELUXEÂ‡ MUSIC
 http://94.198.255.211:5555/pl.m3u8?channel=17
 #EXTINF:-1,Disney Channel
 http://94.198.255.211:5555/pl.m3u8?channel=16
@@ -668,7 +668,7 @@ http://94.198.255.211:5555/pl.m3u8?channel=30
 http://94.198.255.211:5555/pl.m3u8?channel=31
 #EXTINF:-1,K-TV
 http://94.198.255.211:5555/pl.m3u8?channel=32
-#EXTINF:-1,münchen.tv
+#EXTINF:-1,mÃ¼nchen.tv
 http://94.198.255.211:5555/pl.m3u8?channel=33
 #EXTINF:-1,N24
 http://94.198.255.211:5555/pl.m3u8?channel=34
@@ -688,7 +688,7 @@ http://94.198.255.211:5555/pl.m3u8?channel=40
 http://94.198.255.211:5555/pl.m3u8?channel=41
 #EXTINF:-1,RNF
 http://94.198.255.211:5555/pl.m3u8?channel=42
-#EXTINF:-1,†RTL‡ Television
+#EXTINF:-1,Â†RTLÂ‡ Television
 http://94.198.255.211:5555/pl.m3u8?channel=43
 #EXTINF:-1,RTL Austria
 http://94.198.255.211:5555/pl.m3u8?channel=44
@@ -698,7 +698,7 @@ http://94.198.255.211:5555/pl.m3u8?channel=45
 http://94.198.255.211:5555/pl.m3u8?channel=46
 #EXTINF:-1,RTLNITRO
 http://94.198.255.211:5555/pl.m3u8?channel=47
-#EXTINF:-1,†Sonnen‡klar †TV‡
+#EXTINF:-1,Â†SonnenÂ‡klar Â†TVÂ‡
 http://94.198.255.211:5555/pl.m3u8?channel=48
 #EXTINF:-1,SAT.1
 http://94.198.255.211:5555/pl.m3u8?channel=49
@@ -740,7 +740,7 @@ http://94.198.255.211:5555/pl.m3u8?channel=66
 http://94.198.255.211:5555/pl.m3u8?channel=67
 #EXTINF:-1,zdf_neo
 http://94.198.255.211:5555/pl.m3u8?channel=68
-#EXTINF:-1,Bayerisches FS Süd
+#EXTINF:-1,Bayerisches FS SÃ¼d
 http://94.198.255.211:5555/pl.m3u8?channel=69
 #EXTINF:-1,SWR Fernsehen RP
 http://94.198.255.211:5555/pl.m3u8?channel=70
@@ -760,7 +760,7 @@ http://94.198.255.211:5555/pl.m3u8?channel=76
 http://94.198.255.211:5555/pl.m3u8?channel=78
 #EXTINF:-1,Tele Bern
 http://94.198.255.211:5555/pl.m3u8?channel=79
-#EXTINF:-1,Tele Züri
+#EXTINF:-1,Tele ZÃ¼ri
 http://94.198.255.211:5555/pl.m3u8?channel=80
 #EXTINF:-1,zueriplus
 http://94.198.255.211:5555/pl.m3u8?channel=81
@@ -832,7 +832,7 @@ http://94.198.255.211:5555/pl.m3u8?channel=129
 http://94.198.255.211:5555/pl.m3u8?channel=133
 #EXTINF:-1,WDR Essen
 http://94.198.255.211:5555/pl.m3u8?channel=135
-#EXTINF:-1,WDR Münster
+#EXTINF:-1,WDR MÃ¼nster
 http://94.198.255.211:5555/pl.m3u8?channel=136
 #EXTINF:-1,WDR Siegen
 http://94.198.255.211:5555/pl.m3u8?channel=137
@@ -864,7 +864,7 @@ http://94.198.255.211:5555/pl.m3u8?channel=149
 http://94.198.255.211:5555/pl.m3u8?channel=150
 #EXTINF:-1,MDR S-Anhalt
 http://94.198.255.211:5555/pl.m3u8?channel=151
-#EXTINF:-1,MDR Thüringen
+#EXTINF:-1,MDR ThÃ¼ringen
 http://94.198.255.211:5555/pl.m3u8?channel=152
 #EXTINF:-1,HAYAT PLUS
 http://94.198.255.211:5555/pl.m3u8?channel=153
