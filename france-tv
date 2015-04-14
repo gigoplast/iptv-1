@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,France 2 (JT de 20h en Direct)
+mms://direct.francetv.fr/jt-20h.wsx
+#EXTINF:0,France 3 (JT 19h-20h en Direct)
+mms://direct.francetv.fr/jt-1920.wsx
